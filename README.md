@@ -1,4 +1,4 @@
-# Mega.nz-Bot
+# ربات Mega
 A Simple Telegram Bot written in Python using Pyrogram Library to Do [Somethings](https://github.com/Itz-fork/Mega.nz-Bot#features) Related to [Mega.nz](https://mega.nz/) Cloud Storage.
 
 # Features
